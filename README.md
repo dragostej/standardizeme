@@ -1,1 +1,1 @@
-#Standardize Me Add-on for Blender
+# Standardize Me Add-on for Blender
