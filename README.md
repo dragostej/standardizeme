@@ -19,7 +19,7 @@
 
 The whole standardization process can be seen in this [video](https://youtu.be/2X6RTRQDHWM).
 
-## Gallery
+## [Gallery](GALLERY.md)
 
 ## License information
 
