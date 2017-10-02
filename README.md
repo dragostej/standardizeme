@@ -19,6 +19,8 @@
 
 The whole standardization process can be seen in this [video](https://youtu.be/2X6RTRQDHWM).
 
+## Gallery
+
 ## License information
 
 Copyright © 2016 Ákos Tóth, Roland Kunkli
