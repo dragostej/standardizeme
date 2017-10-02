@@ -17,7 +17,7 @@
 7. Export the resulted model. In the export options, you need to check in the **Keep Vertex Order** and the **Apply Modifiers** options! (See some results.)
 8. This resulted model is usable in any MPEG-4 based facial animation player with the FDP file ([generic_model.fdp](files/generic_model.fdp)) of the generic model. (See sample videos.)
 
-The whole standardization process can be seen in this video.
+The whole standardization process can be seen in this [video](https://youtu.be/2X6RTRQDHWM).
 
 ## License information
 
