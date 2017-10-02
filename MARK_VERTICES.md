@@ -6,4 +6,4 @@ Select the **Region** and **Feature point** type on the **MPEG-4 Standardization
 ![alt text](images/sme_mark_vertex.png)
 
 
-## See all required points [here](images/).
+## See all required points [here](REQUIRED_POINTS.md).
