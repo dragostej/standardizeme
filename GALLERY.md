@@ -40,3 +40,11 @@
 <img src="images/generic_expression2.png" width="300"></p>
 
 ## Animated face models
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rR5ekUohKZM/0.jpg)](https://www.youtube.com/watch?v=rR5ekUohKZM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M3NV5mcGbDE/0.jpg)](https://www.youtube.com/watch?v=M3NV5mcGbDE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7GBDmBX4TCs/0.jpg)](https://www.youtube.com/watch?v=7GBDmBX4TCs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VZ4EfXfiQaI/0.jpg)](https://www.youtube.com/watch?v=VZ4EfXfiQaI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9zEw-yNH3SY/0.jpg)](https://www.youtube.com/watch?v=9zEw-yNH3SY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3m28UOOvjr8/0.jpg)](https://www.youtube.com/watch?v=3m28UOOvjr8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iRYYbxmBGmE/0.jpg)](https://www.youtube.com/watch?v=iRYYbxmBGmE)
