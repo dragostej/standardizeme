@@ -6,8 +6,8 @@
 
 ## Usage of the add-on
 
-1. Download the Standardize Me Add-on (standardize_me_addon.py) and install it in **Blender**. ([Installing python scripts in Blender.](videos/install_blender_addon.mp4))
-2. Import a 3D head model (original model) on the MPEG-4 Standardization panel.
+1. Download the Standardize Me Add-on ([standardize_me_addon.py](files/standardize_me_addon.py)) and install it in **Blender**. ([Installing python scripts in Blender.](videos/install_blender_addon.mp4))
+2. Import a 3D head model (original model) on the **MPEG-4 Standardization** panel.
 3. Mark all necessary vertices on the 3D head model. (For more information, click here.)
 4. Generate the control cage of the model with the Create Cage button.
 5. Import the object file of the generic model (generic_model.zip), then the generic cage model (generic_cage_model.obj) on the MPEG-4 Standardization panel.
