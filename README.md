@@ -14,7 +14,7 @@
 4. Generate the control cage of the model with the **Create Cage** button.
 5. Import the object file of the generic model ([generic_model.zip](files/generic_model.zip)), then the generic cage model ([generic_cage_model.obj](files/generic_cage_model.obj)) on the **MPEG-4 Standardization** panel.
 6. Press the **Run Deformation** button to deform the generic model.
-7. Export the resulted model. In the export options, you need to check in the **Keep Vertex Order** and the **Apply Modifiers** options! (See some [results](GALLERY.md#results).)
+7. Export the resulted model. In the export options, you need to check in the **Keep Vertex Order** and the **Apply Modifiers** options! (See some [results](GALLERY.md#resulted-models).)
 8. This resulted model is usable in any MPEG-4 based facial animation player with the FDP file ([generic_model.fdp](files/generic_model.fdp)) of the generic model. (See sample videos.)
 
 The whole standardization process can be seen in this [video](https://youtu.be/2X6RTRQDHWM).
