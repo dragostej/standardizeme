@@ -1,5 +1,7 @@
 # Standardize Me Add-on for Blender
 
+![alt text](images/sme1.png)
+
 ## The purpose of the add-on
 
 **Standardize Me Add-on** was developed for standardize a 3D head model based on the MPEG-4 standard.
