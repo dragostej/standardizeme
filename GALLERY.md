@@ -48,3 +48,11 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9zEw-yNH3SY/0.jpg)](https://www.youtube.com/watch?v=9zEw-yNH3SY)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3m28UOOvjr8/0.jpg)](https://www.youtube.com/watch?v=3m28UOOvjr8)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iRYYbxmBGmE/0.jpg)](https://www.youtube.com/watch?v=iRYYbxmBGmE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uLx1XYxVA7k/0.jpg)](https://youtu.be/uLx1XYxVA7k)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8v1EzuKYvyA/0.jpg)](https://youtu.be/8v1EzuKYvyA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V8Gzo-UVcRs/0.jpg)](https://youtu.be/V8Gzo-UVcRs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Qavd9E6ddp0/0.jpg)](https://youtu.be/Qavd9E6ddp0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AvwLzi6AI50/0.jpg)](https://youtu.be/AvwLzi6AI50)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Xch4Zr-yIsA/0.jpg)](https://youtu.be/Xch4Zr-yIsA)
+
+
